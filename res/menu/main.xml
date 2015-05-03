@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menuAdd"
+        android:icon="@drawable/ic_add"
+        android:showAsAction="always"
+        android:title="ADD">
+    </item>
+    <item
+        android:id="@+id/menuWallp"
+        android:icon="@drawable/ic_wallp"
+        android:showAsAction="always"
+        android:title="@string/str_walpapers">
+    </item>
+    
+    <item
+        android:id="@+id/menu_setTimePhoto"
+        android:icon="@drawable/ic_settings"
+        android:showAsAction="always"
+        android:title="@string/menu_set_time">
+    </item>
+    <item
+        android:id="@+id/menuMagazin"
+        android:icon="@drawable/ic_magazin"
+        android:showAsAction="always"
+        android:title="Magazin">
+    </item>
+
+</menu>

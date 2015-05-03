@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.livewallpapers1.CropActivity" >
+
+    <item
+        android:id="@+id/menu_back"
+        android:showAsAction="always"
+        android:title="@string/str_back">
+    </item>
+    <item
+        android:id="@+id/menu_next"
+        android:showAsAction="always"
+        android:title="@string/str_Next">
+    </item>
+    <item
+        android:id="@+id/menu_finish"
+        android:showAsAction="always"
+        android:title="@string/str_Finish">
+    </item>
+
+</menu>

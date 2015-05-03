@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Activity titles -->
+    <string name="app_name">Фото Обои</string>
+    <string name="ac_name_image_list">Image List Example</string>
+    <string name="ac_name_image_grid">Image Grid Example</string>
+    <string name="ac_name_image_pager">Image Pager Example</string>
+    <string name="ac_name_image_gallery">Image Gallery Example</string>
+    <string name="database_name">PhotoWallpapers</string>
+    <!-- Labels -->
+    <string name="label_activity_examples">Activity Examples</string>
+    <string name="menu_item_clear_memory_cache">Clear memory cache</string>
+    <string name="menu_item_clear_disc_cache">Clear disc cache</string>
+    <string name="menu_item_pause_on_scroll">Pause on scroll</string>
+    <string name="menu_item_pause_on_fling">Pause on fling</string>
+    <string name="button_image_list">ListView</string>
+    <string name="button_image_grid">GridView</string>
+    <string name="button_image_pager">ViewPager</string>
+    <string name="button_image_gallery">Gallery</string>
+    <!-- Content descriptions -->
+    <string name="descr_image">Image</string>
+    <string name="title_activity_image_pager"></string>
+    <string name="action_settings">Настройки</string>
+    <string name="popup_menu_delete">Удалить</string>
+    <string name="title_activity_crop"></string>
+    <string name="str_back">Назад</string>
+    <string name="str_Next">Вперёд</string>
+    <string name="str_Finish">Завершить</string>
+    <string name="popup_menu_update">Изменить</string>
+    <string name="alertShure">Вы уверены что хотите удалить выбранное изображение?</string>
+<string name="images_empty">Коснитесь экрана чтобы добавить изображение</string>
+<string name="wallp_name">Android Photo Wallpapers</string>
+<string name="str_walpapers">Живые обои</string>
+<string name="menu_static_image">Выбрать фоновый рисунок</string>
+<string name="menu_set_time">Установить время показа</string>
+
+ <string name="menu_setTime">Установить время показа фотографий</string>
+    <string name="seconds">Секунды</string>
+    <string name="minutes">Минуты</string>
+    <string name="hours">Часы</string>
+    <string name="days">Дни</string>
+    <string name="str_choose_time">Выберите время показа фотографий</string>
+    <string name="addTable">Добавить</string>
+    <string name="alertCreate">Введите имя нового альбома</string>
+    <string name="str_all_empty">Коснитесь экрана чтобы добавить альбом</string>
+    <string name="str_albom_empty">Коснитесь экрана чтобы добавить фотографию</string>
+    <string name="alertShureDelete">Уверены что хотите удалить выбранный альбом?</string>
+    <string name="alertRename">Введите новое имя альбома</string>
+    <string name="str_ups">Ошибка</string>
+    <string name="allertError">Размер выбранного Вами изображения слишком велик! Его добавление невозможно.</string>
+    <string name="str_wallp">Пожалуйста найдите в открывшемся списке : </string>
+    <string name="str_show">Больше не показывать это сообщение</string>
+    <string name="str_attention">Внимание!</string>
+    <string-array name="images_array">
+        <item >Галерея</item>
+        <item >Камера</item>
+    </string-array>
+    <string name="alert_str_choose">Пожалуйста выберите действие</string>
+     <string name="magazin_item_on">Включено</string>
+    <string name="magazin_item_off">Выключено</string>
+    <string name="magazin_item_add_from_camera">Добавление снимков с камеры</string>
+    <string name="magazin_item_add_time">Время показа фотографий</string>
+      <string name="str_settings">Настройки</string>
+       <string name="Choose_other">Выбрать другое фоновое изображение</string>
+
+ <string name="allertOtherApplication">Выбранное Вами приложение не позволяет получить изображение. Пожалуйста выберите другое приложение.</string>
+<string name="str_guide_live_wallpapers">Поздравляем! Теперь вы можете запустить показ ваших изображений. 
+          Для продолжения нажмите кнопку Да. В дальшейшем вы сможете запустить показ изображений нажав на кнопку вверху.</string>
+      <string name="str_notife_guide_live_wallpapers">Если вы ещё не запустили показ ваших изображений,  просто нажмите на кнопку вверху приложения и выберие : \nANDROID PHOTO WALLPAPERS </string>
+   <string name="strNotifAdvise">Совет</string>
+ 
+</resources>
